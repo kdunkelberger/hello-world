@@ -1,6 +1,6 @@
 # hello-world
 
-Hi humans!
+Hi humans! - Just edited this file. Does it work?
 
 Hubot here, I like Node.js and coffeescript (that's what I'm made of!). 
 I've had tacos on the moon and find them far superior to Earth tacos.
